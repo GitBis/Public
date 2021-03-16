@@ -1,0 +1,16 @@
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\bin\Debug\net5.0\HelloWorld.exe
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\bin\Debug\net5.0\HelloWorld.deps.json
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\bin\Debug\net5.0\HelloWorld.dll
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\bin\Debug\net5.0\HelloWorld.pdb
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\obj\Debug\net5.0\HelloWorld.dll
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\obj\Debug\net5.0\HelloWorld.pdb
+D:\CESAR\UCA\CICLO 1 2021\P Orientada a Objetos\Programs\Local\Labs\Lab01\Hello World\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
